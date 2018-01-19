@@ -5,3 +5,5 @@ covers of a high-dimensional manifold while maintaining its general structure. T
 
 More detailed information about the project can be found on the poster: 
 **Dimensionality-Reduction-Covers/poster.pdf**
+
+Note: I am invited to the Annual Chicago Area Undergraduate Research Symposium for this project. I will be presenting my research on April 15th, 2018.
